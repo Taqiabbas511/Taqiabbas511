@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Taqiabbas511
-- 👀 I’m interested in Codeing
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML,CSS and JavaScript
