@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [www.taqiabbas.me](https://www.taqiabbas.me)
+- 👨‍💻 All of my projects are available at [www.taqiabbas.me](https://www.taqiabbas.me/Portfolio)
 
 - 💬 Ask me about **Html, Css and Js**
 
