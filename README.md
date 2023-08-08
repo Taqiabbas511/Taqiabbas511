@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.taqiabbas.me](https://www.taqiabbas.me/Portfolio)
 
-- 💬 Ask me about **Html, Css and Js**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **taqiabbas8989@gmail.com**
 
